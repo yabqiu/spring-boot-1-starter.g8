@@ -1,4 +1,4 @@
-#Spring Boot Starter template
+# Spring Boot Starter template
 
 ### Run this application
 
